@@ -18,7 +18,7 @@
 
 
 # ajout d'une règle personnel 
-# 10 fair fonctionner le code ( c'est mieux )
+# 10. fair fonctionner le code ( c'est mieux )
 
 
 import lib.afficherTache
